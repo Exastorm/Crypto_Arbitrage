@@ -1,4 +1,4 @@
-![Color logo with background](https://user-images.githubusercontent.com/34184270/165693140-29f3c525-dccf-46ce-b72a-d9703c9b9afe.png)
+![Logo_Crypto_Arbitrage](https://user-images.githubusercontent.com/34184270/165695071-7886c13d-ca08-4e37-8064-5a307fb52d9d.png)
 
 ## Crypto Arbitrage
 
