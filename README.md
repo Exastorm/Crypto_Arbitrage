@@ -1,6 +1,8 @@
-## Loan Qualification App
+![Color logo with background](https://user-images.githubusercontent.com/34184270/165693140-29f3c525-dccf-46ce-b72a-d9703c9b9afe.png)
 
-A simple app designed to qualify applicants and match them with available loans. The user has the option to view the loans for which they qualify, on screen, immediately, and the option to save this data to a csv file so that they can refer back to it and take further action as they see fit.
+## Crypto Arbitrage
+
+An arbitrage opportunity finder for crypto assets, built with Python. Don't miss out on one of the easiest ways to profit from the high volatility and irregular liquidity of the crypto markets. Download Arbitrack today to track down every price discrepancy on your favorite crypto assets across exchanges.
 
 ---
 
