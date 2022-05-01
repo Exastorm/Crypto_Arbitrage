@@ -10,10 +10,10 @@ An arbitrage opportunity finder for crypto assets, built with Python. Don't miss
 
 This application is written in Python 3.9.7. using the following libraries:
 
-Pandas 1.4.2
-Matplotlib 3.5.1
-Pathlib 1.0.1
-IPython 7.1.1
+Pandas 1.4.2  
+Matplotlib 3.5.1  
+Pathlib 1.0.1  
+IPython 8.3.0
 
 ---
 
